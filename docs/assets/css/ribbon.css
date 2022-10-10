@@ -132,3 +132,11 @@
 .orange.ribbon span {
     background-color: #b98b29;
 }
+
+.green.ribbon::before, .green.ribbon::after {
+    border: 5px solid #29B941;
+}
+
+.green.ribbon span {
+    background-color: #29B941;
+}
